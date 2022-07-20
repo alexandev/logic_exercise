@@ -12,6 +12,10 @@ Output
 14
  */
 
+
+/***********************************************/
+
+
 const solution = (array) => array.reduce( 
     (previousValue, currentValue) => previousValue + currentValue 
 );

@@ -27,6 +27,10 @@ Output
 220
 */
 
+
+/***********************************************/
+
+
 function solution(orders){
     return orders
     .map(order => order.total)
